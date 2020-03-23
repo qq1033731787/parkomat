@@ -2,11 +2,11 @@ package main
 
 import (
 	"flag"
-	log "github.com/Sirupsen/logrus"
-	"github.com/parkomat/parkomat/config"
-	"github.com/parkomat/parkomat/dns"
-	"github.com/parkomat/parkomat/web"
-	"github.com/parkomat/parkomat/webdav"
+	log "github.com/sirupsen/logrus"
+	"github.com/qq1033731787/parkomat/config"
+	"github.com/qq1033731787/parkomat/dns"
+	"github.com/qq1033731787/parkomat/web"
+	"github.com/qq1033731787/parkomat/webdav"
 	"os"
 	"strconv"
 	"sync"

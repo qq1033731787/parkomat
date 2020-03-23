@@ -2,9 +2,9 @@ package dns
 
 import (
 	"fmt"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	mdns "github.com/miekg/dns"
-	"github.com/parkomat/parkomat/config"
+	"github.com/qq1033731787/parkomat/config"
 	"time"
 )
 

@@ -2,8 +2,8 @@ package web
 
 import (
 	"fmt"
-	log "github.com/Sirupsen/logrus"
-	"github.com/parkomat/parkomat/config"
+	log "github.com/sirupsen/logrus"
+	"github.com/qq1033731787/parkomat/config"
 	"net/http"
 	"os"
 )
